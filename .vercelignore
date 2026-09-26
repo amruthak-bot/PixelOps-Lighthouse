@@ -1,0 +1,4 @@
+backend/.venv
+backend/runs
+backend/__pycache__
+stitch-reference/**/screen.png
