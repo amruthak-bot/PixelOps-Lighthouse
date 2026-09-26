@@ -1,0 +1,6 @@
+# Pixel-Ops Lighthouse -- runtime dependencies (Windows-tested).
+numpy==2.2.6
+opencv-python==5.0.0.93
+open3d==0.20.0
+Pillow==12.3.0
+pypdf>=4.0.0
