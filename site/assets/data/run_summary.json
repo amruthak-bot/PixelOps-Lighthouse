@@ -1,0 +1,10 @@
+{
+  "stages": {
+    "features": {"images": 12, "verified_pairs": 27, "time_s": 29.4},
+    "sfm": {"registered": 10, "sparse_points": 1352, "time_s": 5.9},
+    "depth": {"pairs": 5, "time_s": 3.9},
+    "fusion": {"points": 1161, "dense_depth_fused": false, "time_s": 0.0},
+    "mesh": {"vertices": 5493, "triangles": 10829, "time_s": 5.9}
+  },
+  "total_time_s": 45.2
+}
